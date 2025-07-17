@@ -3,7 +3,7 @@
 </div>
  
 # TryHackMe-Walkthroughs
-This repository contains walkthroughs for various rooms on TryHackMe, a platform for learning and practicing cybersecurity skills through hands-on virtual environments. Each directory corresponds to a specific room and includes a detailed walkthrough guide, along with any necessary files or resources. Purpose of creating this for self learning and helping others.
+Este repositorio contiene guías para varias salas de TryHackMe, una plataforma para aprender y practicar habilidades de ciberseguridad mediante entornos virtuales prácticos. Cada directorio corresponde a una sala específica e incluye una guía detallada, junto con los archivos o recursos necesarios. Su propósito es el autoaprendizaje y la ayuda a otros.
 
 # Walkthroughs
 | Room Name | Difficulty | Type |Description | Room Type |
