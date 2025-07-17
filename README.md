@@ -93,19 +93,19 @@ Este repositorio contiene guías para varias salas de TryHackMe, una plataforma 
 | []() | | | |
 -->
 
-> ## Additional Information
+> ## Información adicional
 
-In addition to the walkthroughs, this repository may also include other relevant files or resources associated with each room, such as exploit scripts, log files, or nmap scans. These files can be found within the respective directories.
+Además de las guías, este repositorio también puede incluir otros archivos o recursos relevantes asociados con cada sala, como scripts de exploits, archivos de registro o análisis de nmap. Estos archivos se encuentran en los directorios correspondientes.
 
-Sometime im too lazy to make a complete walkthorugh so please ignore that..
+A veces me da pereza hacer una guía completa, así que ignórala.
 
-Please note that the walkthroughs provided here are for educational purposes only and should not be used for any malicious activities. Always adhere to ethical hacking practices and respect the terms and conditions of the TryHackMe platform.
+Ten en cuenta que las guías que se ofrecen aquí son solo con fines educativos y no deben utilizarse para actividades maliciosas. Adhiere siempre a las prácticas de hacking ético y respeta los términos y condiciones de la plataforma TryHackMe.
 
-Feel free to explore the walkthroughs and learn more about the different challenges and techniques covered in each room.
-> ## Contributing
+No dudes en explorar las guías y aprender más sobre los diferentes desafíos y técnicas que se tratan en cada sala
+> ## Contribuyendo
 
-If you would like to contribute to this repository by adding your own walkthroughs or improving existing ones, please follow the standard GitHub workflow: Fork the repository, make your changes, and submit a pull request. Your contributions are greatly appreciated!
-Happy hacking!
+Si quieres contribuir a este repositorio añadiendo tus propios tutoriales o mejorando los existentes, sigue el flujo de trabajo estándar de GitHub: bifurca el repositorio, realiza los cambios y envía una solicitud de incorporación de cambios. ¡Agradecemos mucho tus contribuciones!
+¡Que disfrutes del hacking!
 
 <!-- 
 * [tomorrow]() 
