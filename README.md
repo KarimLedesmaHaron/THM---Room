@@ -2,10 +2,10 @@
 <img src="https://github.com/user-attachments/assets/801f8cc4-8527-48bc-a875-8e5f8804d2ff" height="200"></img>
 </div>
  
-# TryHackMe-Walkthroughs
+# TryHackMe-Tutoriales
 Este repositorio contiene guías para varias salas de TryHackMe, una plataforma para aprender y practicar habilidades de ciberseguridad mediante entornos virtuales prácticos. Cada directorio corresponde a una sala específica e incluye una guía detallada, junto con los archivos o recursos necesarios. Su propósito es el autoaprendizaje y la ayuda a otros.
 
-# Walkthroughs
+# Tutoriales
 | Room Name | Difficulty | Type |Description | Room Type |
 |:---:|:---:|---|---|---|
 | [0x41haz](./Room/0x41haz/writeup.md) | Easy | Linux | Simple Reversing Challenge | ```Reverse Engerniering``` |
