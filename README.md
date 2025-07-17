@@ -104,7 +104,7 @@ Ten en cuenta que las guías que se ofrecen aquí son solo con fines educativos 
 No dudes en explorar las guías y aprender más sobre los diferentes desafíos y técnicas que se tratan en cada sala
 > ## Contribuyendo
 
-Si quieres contribuir a este repositorio añadiendo tus propios tutoriales o mejorando los existentes, sigue el flujo de trabajo estándar de GitHub: bifurca el repositorio, realiza los cambios y envía una solicitud de incorporación de cambios. ¡Agradecemos mucho tus contribuciones!
+Si quieres contribuir a este repositorio añadiendo tus propios tutoriales o mejorando los existentes, sigue el flujo de trabajo estándar de GitHub: bifurca el repositorio, realiza los cambios y envía una solicitud de incorporación de cambios.
 ¡Que disfrutes del hacking!
 
 <!-- 
